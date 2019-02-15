@@ -1,6 +1,7 @@
-# Golang WebSocket Framework
+# Golang WebSocket Framework 
 ### Soso-server
-
+### Status
+in wokring ...
 ### Additional libs
 [soso-client](https://github.com/happierall/soso-client)
 [soso-auth](https://github.com/happierall/soso-auth)
